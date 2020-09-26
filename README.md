@@ -1,4 +1,4 @@
-![nery profile image](profile.jpeg)
+![nery profile image](profile.jpg)
 # Upendra Samaranayake
 ## Contact Info: ![email icon](Mail-icon.png) [Email](mailto:usamaranayake@miracosta.edu)
 
